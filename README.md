@@ -2,11 +2,11 @@
 SERVER
 
 ## Working server
-Used 'http' module for this work, listening on port 3000.
-Headers:
- [x] "Access-Control-Allow-Headers": "*"
- [x] "Access-Control-Allow-Origin": "*"
- [x] "Access-Control-Allow-Methods": "*"
+Used 'http' module for this work, listening on port 3000.  
+**Headers:**  
+  [x] "Access-Control-Allow-Headers": "*"  
+  [x] "Access-Control-Allow-Origin": "*"  
+  [x] "Access-Control-Allow-Methods": "*"  
  
  ## Sending and reciving data
  sending JSON (stringify) and return boolian (as string)
