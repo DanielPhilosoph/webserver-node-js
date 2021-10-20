@@ -1,0 +1,27 @@
+{
+  "name": "webserver-node-js",
+  "version": "1.0.0",
+  "description": "SERVER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./back/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPhilosoph/webserver-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPhilosoph/webserver-node-js/issues"
+  },
+  "homepage": "https://github.com/DanielPhilosoph/webserver-node-js#readme",
+  "dependencies": {
+    "axios": "0.23.0",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "nodemon": "2.0.14"
+  }
+}
